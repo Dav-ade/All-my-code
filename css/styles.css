@@ -1,0 +1,84 @@
+/*FirstPage*/
+.hav{
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+div{
+    background-image: url(../img/space3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+ul{
+    background-color: black;
+}
+li,h2{
+    display: inline-block;
+}
+h2{
+    color: white;
+    font-style: var();
+    font-size: 40px;
+    margin-right: 90px;
+}
+li{
+    color: white;
+    font-size: 14px;
+    margin-right: 40px;
+}
+p{
+    color: white;
+    font-size: 20px;
+    margin-top: 6.5cm;
+    margin-bottom: 5px;
+}
+.h{ 
+    color: white;
+    font-size: 40px;
+    margin-top: 0%;
+    margin-bottom: 20px;
+    top: 0px;
+}
+button{
+    background-color: transparent;
+    padding: 14px 50px;
+    border: 2px solid white;
+    color: white;
+    display: block;
+}
+p,h2,button{
+    margin-left: 40px;
+}
+/*SecondPage*/
+.da{
+    background-image: url(../img/spaceX1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pa{
+    margin-top: 10cm;
+}
+/*ThirdPage*/
+.dav{
+    background-image: url(../img/mars\ landing.jpeg);
+}
+/*FourthPage*/
+.davi{
+    background-image: url(../img/nasa.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h5{
+    color: white;
+    opacity: 0.2;
+    margin-left: 200px;
+}
+h5,.url{
+    display: inline;
+}
+.url{
+    margin-right: 40px;
+    font-size: 12px;
+}
