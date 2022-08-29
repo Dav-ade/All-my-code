@@ -32,10 +32,9 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 * _Any known issues_
 * _should go here_
 
-## License
-
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+## GUI
+_{please  verify from me before you have this code}_
 
 ## Contact Information
 
-_{Add your contact information here.}_
+_{08053220703_
