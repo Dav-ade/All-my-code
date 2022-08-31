@@ -32,7 +32,7 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 * _Any known issues_
 * _should go here_
 
-## GUI
+## GIU
 _{please  verify from me before you have this code}_
 
 ## Contact Information
